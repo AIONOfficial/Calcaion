@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\C# Project\.NET FORM Project\Calculatornew\Calculatornew\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucAngleConverter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucGeometry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLength.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucScientificCalculator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucStandard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTemperature.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucVolume.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucWeight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
